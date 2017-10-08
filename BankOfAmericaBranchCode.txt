@@ -1,0 +1,90 @@
+<location>San Jose 1234
+	34575
+	39532
+	24678
+	34049
+	64374
+<location>Mountain View 2442
+	94332
+	23744
+	12340
+	33246
+	44224
+<location>Los Gatos 9364
+	33349
+	49254
+	30059
+	44482
+	33849
+<location>Alameda 3864
+	33349
+	49254
+	30019
+	44282
+	33849
+<location>Milpitas 3943
+	33239
+	33254
+	30023
+	41952
+	10569
+<location>Santa Clara 0934
+	32339
+	33334
+	33423
+	41952
+	19489
+<location>Palo Altos 9503
+	33439
+	33546
+	33423
+	41422
+	13255
+<location>Campell 2234
+	93809
+	22246
+	44883
+	40382
+	22945
+<location>Standford 9932
+	24399
+	24226
+	94033
+	43826
+	23749
+<location>Gilroy 9893
+	22383
+	32839
+	37289
+	27372
+	27466
+<location>Morgan Hill 2343
+	22893
+	38289
+	37738
+	37782
+	37786
+<location>Cupertino 2298
+	34992
+	44489
+	28890
+	23334
+	88927
+<location>Santa Monica 8832
+	38833
+	92843
+	99938
+	27372
+	88338
+<location>Irvine 8392
+	23383
+	38380
+	22399
+	83829
+	33399
+<location>Santa Fe 4353
+	33993
+	33090
+	44335
+	99889
+	74768
